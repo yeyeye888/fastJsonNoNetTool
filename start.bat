@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -jar FastJsonNoNetTool-1.0.jar

